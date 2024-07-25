@@ -60,7 +60,9 @@
         "component_name": "purple_header_component",
         "id": "purple_header_component_1721926410",
         "type": "containerComponent",
-        "metadata": {},
+        "metadata": {
+            "markdownBackground": "TRANSPARENT"
+        },
         "w": 12,
         "h": 3,
         "x": 0,
