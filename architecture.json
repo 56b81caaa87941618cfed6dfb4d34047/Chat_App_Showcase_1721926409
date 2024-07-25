@@ -10,5 +10,9 @@
     {
         "level": 1,
         "task_description": "This is the user's previous chat history with this AI:\n\nUser: Remove the downloads nav item\nAI: I'll remove the downloads nav item as requested.\nUser: Add a new nav component called 'about'\nThis is the user's current request of changes to be made: Add a new nav component called 'about'"
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's previous chat history with this AI:\n\nUser: Remove the downloads nav item\nAI: I'll remove the downloads nav item as requested.\nUser: Add a new nav component called 'about'\nThis is the user's current request of changes to be made: Add a new nav component called 'about'"
     }
 ]
