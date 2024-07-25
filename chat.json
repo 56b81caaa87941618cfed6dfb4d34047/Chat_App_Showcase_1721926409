@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Great suggestion, adding new 'about' nav component now.",
+        "message_id": "guest25072024180217",
+        "timestamp": "25072024180218",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "Add a new nav component called 'about'",
         "message_id": "guest25072024180217",
