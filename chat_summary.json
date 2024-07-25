@@ -36,5 +36,11 @@
         "content": "Add a new nav component called 'about'",
         "timestamp": "25072024180218",
         "message_id": "guest25072024180217"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Great suggestion, adding new 'about' nav component now.",
+        "timestamp": "25072024180218",
+        "message_id": "guest25072024180217"
     }
 ]
