@@ -19,7 +19,6 @@ Vue.component("purple_header_component_1721926410", {
                         <li><a id="Pricing-link" class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-slate-300 hover:text-white" href="Pricing.html">Pricing</a></li>
                         <li><a id="Community-link" class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-slate-300 hover:text-white" href="Community.html">Community</a></li>
                         <li><a id="Blog-link" class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-slate-300 hover:text-white" href="Blog.html">Blog</a></li>
-                    </ul>
     
                 </nav>
     
@@ -44,7 +43,6 @@ Vue.component("purple_header_component_1721926410", {
                             <li><a id="mobile-Features-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="Features.html">Features</a></li>
                             <li><a id="mobile-Pricing-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="Pricing.html">Pricing</a></li>
                             <li><a id="mobile-Community-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="Community.html">Community</a></li>
-                            <li><a id="mobile-Blog-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="Blog.html">Blog</a></li>
                         </ul>
                     </nav>
     
