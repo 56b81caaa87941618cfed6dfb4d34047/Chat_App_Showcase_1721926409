@@ -19,7 +19,8 @@ Vue.component("purple_header_component_1721926410", {
                         <li><a id="Pricing-link" class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-slate-300 hover:text-white" href="Pricing.html">Pricing</a></li>
                         <li><a id="Community-link" class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-slate-300 hover:text-white" href="Community.html">Community</a></li>
                         <li><a id="Blog-link" class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-slate-300 hover:text-white" href="Blog.html">Blog</a></li>
-                        <li><a id="About-link" class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-slate-300 hover:text-white" href="About.html">About</a></li>
+                        <li><a id="About-link" class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-lavender-300 hover:text-white" href="About.html">About</a></li>
+
     
                 </nav>
     
