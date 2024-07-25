@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the downloads navigation item to be removed from the menu across all website pages or only from specific pages?\", \"option1\": \"Remove from all pages\", \"option2\": \"Remove from specific pages only\"}, {\"question 2\": \"After removing the downloads navigation item, do you want to redistribute the remaining items to maintain layout balance, or keep them as is without any positional adjustment?\", \"option1\": \"Redistribute remaining items\", \"option2\": \"Keep them as is without adjustment\"}], \"input_token_count\": 257, \"output_token_count\": 116, \"time_taken\": \"0:00:04.918002\"}",
+        "message_id": "guest25072024165426",
+        "timestamp": "25072024165431",
+        "component_file_name": "purple_header_component_1721926410",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "I'll remove the downloads nav item as requested.",
         "message_id": "guest25072024165426",
