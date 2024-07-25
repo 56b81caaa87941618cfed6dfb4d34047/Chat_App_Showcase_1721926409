@@ -42,5 +42,11 @@
         "content": "Great suggestion, adding new 'about' nav component now.",
         "timestamp": "25072024180218",
         "message_id": "guest25072024180217"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the 'about' nav component to redirect users to an existing page, or should we create a new page for it?\", \"option1\": \"Redirect to an existing page\", \"option2\": \"Create a new page for it\"}, {\"question 2\": \"Where would you like the 'about' nav component to be positioned in the navigation bar?\", \"option1\": \"At the beginning of the nav bar\", \"option2\": \"At the end of the nav bar\"}], \"input_token_count\": 317, \"output_token_count\": 114, \"time_taken\": \"0:00:10.915031\"}",
+        "timestamp": "25072024180230",
+        "message_id": "guest25072024180217"
     }
 ]
