@@ -2,5 +2,9 @@
     {
         "level": 1,
         "task_description": "Remove the downloads nav item"
+    },
+    {
+        "level": 1,
+        "task_description": "Remove the downloads nav item"
     }
 ]
